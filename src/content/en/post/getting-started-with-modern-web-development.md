@@ -29,6 +29,8 @@ layout: default
 status: published
 ---
 
+{{> components/copyright}}
+
 Modern web development is not about memorizing the latest acronyms. It is about building a predictable workflow that keeps your team confident as products grow. In this primer we will walk through the baseline conventions I use whenever I spin up a new project, regardless of whether it becomes a single-page app or a static marketing site.
 
 ## Map the fundamentals

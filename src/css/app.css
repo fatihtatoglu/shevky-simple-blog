@@ -249,4 +249,26 @@
     color: rgb(220 252 231);
     background: rgba(21, 128, 61, 0.45);
   }
+
+  .star-toast {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(1.5rem);
+  }
+
+  .star-toast[data-visible="true"] {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(0);
+  }
+
+  @media (max-width: 640px) {
+    .star-toast {
+      bottom: 1.5rem;
+      left: 1.25rem;
+      right: 1.25rem;
+      width: auto;
+      max-width: none;
+    }
+  }
 }

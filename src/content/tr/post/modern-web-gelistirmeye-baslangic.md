@@ -28,6 +28,8 @@ layout: default
 status: published
 ---
 
+{{> components/copyright}}
+
 Modern bir projeye başlarken ilk hedefimiz, takımın tekrar tekrar kullanabileceği güvenli bir çalışma zemini kurmaktır. Şık kütüphaneler seçmekten önce, kararlarımızı görünür kılacak küçük belgeler oluşturmak üretkenliği katlar.
 
 ## Temel soruları yanıtlayın
@@ -55,5 +57,3 @@ Benim varsayılan kombinasyonum Vite + TypeScript + Playwright + Shevky. Bu saye
 Her iterasyonda yönlendirme, çeviri ve analitikleri test eden dikey bir dilim yayınlayın. Küçük üretim sürümleri, önbellekleme ve gözlemleme katmanlarını hızlıca doğrulamanızı sağlar. Ayrıca değişiklik günlüğü tutarak paydaşların ilerlemeyi izlemesini kolaylaştırın.
 
 Odaklı kararlar ve belgelenmiş süreçler sayesinde yeni diller eklemek veya farklı tema denemeleri yapmak dakikalar sürer. Modern web geliştirmenin sırrı, tekrar edilebilir bir oyun planına sahip olmaktır.
-
-{{> components/copyright}}

@@ -202,5 +202,61 @@
       "tr": "Bültene katıl",
       "en": "Join the newsletter"
     }
+  },
+  "notifications": {
+    "newYear": {
+      "title": {
+        "tr": "Mutlu Yıllar!",
+        "en": "Happy New Year!"
+      },
+      "message": {
+        "tr": "Yeni yılda üretkenlik, huzur ve ilham dolu projeler dileriz. En son rehberlerimizi takip ederek 2025 hedeflerini beraber hayata geçirelim.",
+        "en": "Wishing you a year filled with calm focus, inspiration, and meaningful shipping. Follow our latest guides and let’s bring your 2025 goals to life together."
+      },
+      "cta": {
+        "tr": "Yeni yazıları keşfet",
+        "en": "Explore fresh stories"
+      }
+    }
+  },
+  "promo": {
+    "starProject": {
+      "title": {
+        "tr": "Shevky'yi Destekle",
+        "en": "Support Shevky"
+      },
+      "message": {
+        "tr": "GitHub'da projeye yıldız ekleyerek bileşenlerin gelişmesine katkı sağlayabilirsin.",
+        "en": "Add a star on GitHub to help the components keep improving."
+      },
+      "cta": {
+        "tr": "Projeye yıldız ver",
+        "en": "Star the project"
+      },
+      "dismiss": {
+        "tr": "Kapat",
+        "en": "Dismiss"
+      }
+    }
+  },
+  "legal": {
+    "ownership": {
+      "title": {
+        "tr": "Telif Hakkı Bildirimi",
+        "en": "Copyright Notice"
+      },
+      "ownerLabel": {
+        "tr": "Yazar / Sahip",
+        "en": "Author / Owner"
+      },
+      "rights": {
+        "tr": "Bu içerikteki tüm haklar saklıdır. Kaynak belirtilmeden kopyalanamaz veya dağıtılamaz.",
+        "en": "All rights to this article are reserved. It may not be copied or distributed without attribution."
+      },
+      "contactHint": {
+        "tr": "İzin talepleri için bizimle iletişime geçebilirsiniz.",
+        "en": "Reach out for licensing or permission requests."
+      }
+    }
   }
 }
