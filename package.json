@@ -14,7 +14,7 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "shevky": "^0.0.4",
+    "shevky": "^0.0.5",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.4.23",
