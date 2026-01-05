@@ -17,7 +17,6 @@ keywords:
   - privacy
   - data processing
 featured: false
-draft: false
 template: page
 layout: default
 status: published

@@ -20,14 +20,20 @@ keywords:
   - modular monolith
   - api contracts
 featured: true
-draft: false
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80
 coverAlt: TypeScript code visible on a widescreen monitor
 coverCaption: Photo by Caspar Camille Rubin on Unsplash
 template: post
 layout: default
 status: published
+notification:
+  badge:
+    title: "Sample Badge"
 ---
+
+{{#front.notification}}
+{{> components/badge}}
+{{/front.notification}}
 
 TypeScript shines when it becomes a communication layer rather than a mere linter. Teams that treat types as contracts ship faster because they catch mismatched assumptions early. This post distills the guardrails we use while growing Shevky-powered sites into multi-team platforms.
 

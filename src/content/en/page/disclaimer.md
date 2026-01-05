@@ -17,7 +17,6 @@ keywords:
   - legal notice
   - professional advice
 featured: false
-draft: false
 template: page
 layout: default
 status: published

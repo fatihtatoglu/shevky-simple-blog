@@ -205,8 +205,8 @@
     font-weight: 600;
     font-size: 0.9rem;
     background: white;
-    transition: background-color 150ms ease, color 150ms ease, transform 150ms ease,
-      box-shadow 150ms ease;
+    transition: background-color 150ms ease, color 150ms ease,
+      transform 150ms ease, box-shadow 150ms ease;
   }
 
   .share-button:hover,
@@ -260,6 +260,10 @@
     opacity: 1;
     pointer-events: auto;
     transform: translateX(0);
+  }
+
+  .badge {
+    @apply w-full border bg-amber-400 text-black font-bold text-xs p-2 rounded-2xl;
   }
 
   @media (max-width: 640px) {

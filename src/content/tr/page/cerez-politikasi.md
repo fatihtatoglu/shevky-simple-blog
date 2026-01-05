@@ -18,7 +18,6 @@ keywords:
   - veri işleme
   - çerezler
 featured: false
-draft: false
 template: page
 layout: default
 status: published

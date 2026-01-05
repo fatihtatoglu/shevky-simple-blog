@@ -20,7 +20,6 @@ keywords:
   - geliştirici deneyimi
   - araç zinciri
 featured: true
-draft: false
 cover: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1600&q=80
 coverAlt: Masada laptop ve eskizler
 template: post

@@ -17,7 +17,6 @@ keywords:
   - gizlilik
   - veri işleme
 featured: false
-draft: false
 template: page
 layout: default
 status: published

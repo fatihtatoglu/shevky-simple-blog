@@ -14,7 +14,6 @@ alternate: /en/
 description: "Örnek Blog - Shevky ile hazırlanmıştır"
 keywords: ["static site generator", "tailwind", "markdown parser"]
 featured: true
-draft: false
 template: "home"
 listKey: "home"
 layout: "default"

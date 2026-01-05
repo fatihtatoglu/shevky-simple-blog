@@ -17,7 +17,6 @@ keywords:
   - hukuki bilgilendirme
   - profesyonel tavsiye
 featured: false
-draft: false
 template: page
 layout: default
 status: published

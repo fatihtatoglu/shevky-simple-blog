@@ -20,14 +20,20 @@ keywords:
   - modüler yapı
   - api sözleşmeleri
 featured: true
-draft: false
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80
 coverAlt: Geniş ekranda TypeScript kodu
 coverCaption: Caspar Camille Rubin tarafından çekilen fotoğraf, Unsplash
 template: post
 layout: default
 status: published
+notification:
+  badge:
+    title: "Örnek etiket"
 ---
+
+{{#front.notification}}
+{{> components/badge}}
+{{/front.notification}}
 
 TypeScript başarılı olduğunda ekip içi iletişimi güçlendiren bir sözleşmeye dönüşür. Kod incelemeleri hızlanır, beklenmedik runtime hataları azalır ve yeni geliştiricileri dahil etmek kolaylaşır.
 
