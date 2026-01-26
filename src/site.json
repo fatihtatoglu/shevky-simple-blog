@@ -97,6 +97,14 @@
     "allow": [
       "/"
     ],
-    "disallow": []
-  }
+    "disallow": [
+      "draft/",
+      "assets/"
+    ]
+  },
+  "plugins": [
+    "shevky-robots-txt",
+    "shevky-tailwindcss",
+    "shevky-esbuild"
+  ]
 }

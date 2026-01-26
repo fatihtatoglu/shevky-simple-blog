@@ -13,9 +13,8 @@
   "author": "Fatih Tatoğlu",
   "license": "MIT",
   "description": "",
-  "devDependencies": {
-    "shevky": "^0.0.6",
-    "@tailwindcss/cli": "^4.1.18",
+  "dependencies": {
+    "shevky": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky/",
     "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.4.23",
     "esbuild": "^0.27.1",
@@ -26,6 +25,9 @@
     "marked-highlight": "^2.2.3",
     "mustache": "^4.2.0",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "shevky-robots-txt": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-robots-txt/",
+    "shevky-tailwindcss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-tailwindcss/",
+    "shevky-esbuild": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-esbuild/"
   }
 }
