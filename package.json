@@ -28,6 +28,7 @@
     "tailwindcss": "^4.1.18",
     "shevky-robots-txt": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-robots-txt/",
     "shevky-tailwindcss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-tailwindcss/",
-    "shevky-esbuild": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-esbuild/"
+    "shevky-esbuild": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-esbuild/",
+    "shevky-rss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-rss/"
   }
 }
