@@ -14,7 +14,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "shevky": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky/",
+    "tailwindcss": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.4.23",
     "esbuild": "^0.27.1",
@@ -25,10 +25,10 @@
     "marked-highlight": "^2.2.3",
     "mustache": "^4.2.0",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.18",
-    "shevky-robots-txt": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-robots-txt/",
-    "shevky-tailwindcss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-tailwindcss/",
+    "shevky": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky/",
     "shevky-esbuild": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-esbuild/",
-    "shevky-rss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-rss/"
+    "shevky-robots-txt": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-robots-txt/",
+    "shevky-rss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-rss/",
+    "shevky-tailwindcss": "/home/fatihtatoglu/workspace/fatihtatoglu/shevky-plugin-tailwindcss/"
   }
 }

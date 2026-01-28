@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html
-  lang="{{locale}}"
+  lang="{{lang}}"
   data-lang="{{lang}}"
-  data-site-base="{{site.url}}"
+  data-site-base="{{{site.url}}}"
   data-lang-default="{{site.defaultLanguage}}"
-  {{#page.alternates.tr}}data-lang-tr="{{page.alternates.tr}}"{{/page.alternates.tr}}
-  {{#page.alternates.en}}data-lang-en="{{page.alternates.en}}"{{/page.alternates.en}}
+  {{#page.alternates.tr}}data-lang-tr="{{{page.alternates.tr}}}"{{/page.alternates.tr}}
+  {{#page.alternates.en}}data-lang-en="{{{page.alternates.en}}}"{{/page.alternates.en}}
 >
 <head>
     {{> partials/_head }}

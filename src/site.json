@@ -2,7 +2,7 @@
   "identity": {
     "author": "Sample Blog Collective",
     "email": "hello@example.com",
-    "url": "http://localhost:3000",
+    "url": "http://localhost:3000/",
     "themeColor": "#0284c7",
     "social": {
       "rss": true,
