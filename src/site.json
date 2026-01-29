@@ -106,6 +106,7 @@
     "shevky-robots-txt",
     "shevky-tailwindcss",
     "shevky-esbuild",
-    "shevky-rss"
+    "shevky-rss",
+    "shevky-sitemap"
   ]
 }
